@@ -2,6 +2,7 @@ import java.util.*;
 
 class Calculator {
 
+<<<<<<< HEAD
 static int add(int k, int y){
 	return k+y;}
 public static void main(String args[]) {
@@ -45,4 +46,11 @@ public static void main(String args[]) {
                 break;
  
                
+=======
+static int div(int k, int y){
+        return k/y;}
+public static void main(String args[]) {
+
+>>>>>>> div
    }}
+~     
