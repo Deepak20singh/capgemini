@@ -2,6 +2,9 @@ import java.util.*;
 
 class Calculator {
 
-    public static void main(String args[]) {
-               
+static int div(int k, int y){
+        return k/y;}
+public static void main(String args[]) {
+
    }}
+~     
