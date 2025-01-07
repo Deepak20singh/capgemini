@@ -2,6 +2,9 @@ import java.util.*;
 
 class Calculator {
 
+static int mult(int k, int y){
+        return k*y;}
+
 static int sub(int k, int y){
         return k-y;}
 
